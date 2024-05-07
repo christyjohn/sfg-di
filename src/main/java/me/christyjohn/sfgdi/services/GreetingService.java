@@ -1,2 +1,6 @@
-package me.christyjohn.sfgdi.services;public interface GreetingService {
+package me.christyjohn.sfgdi.services;
+
+public interface GreetingService {
+
+    String sayGreeting();
 }
